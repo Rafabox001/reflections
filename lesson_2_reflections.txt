@@ -1,0 +1,23 @@
+What happens when you initialize a repository? Why do you need to do it?
+-Whe you initialize a repository a file is generated (.git), this file contains all the info
+needed to upload your files to the repository, once initialized you could execute all the
+git commands in this repository.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-When you wish to maybe try a new feature but you want to still have a stable version of your code,
+or when you want to make significant changes in a project, example. a new difficulty in a game.
+
+How do the diagrams help you visualize the branch structure?
+-It was really helpfull to understand the flow of the branch, also to understand the concept of 
+reachability, when you have an image as a reference it lets you vizualize the history and understand
+where are you working now.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We unify two branches into one again, making the 2 branches accesible from the result, this helps us
+because all the project and more recent changes are updated and available for everyone.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+-As a very importante pro, merging automatically saves you a lot of time, git does almos all the 
+work and lets you know where it could pottentially be a problem so you can solve it and get the 
+desired output.
+
